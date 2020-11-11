@@ -1,2 +1,8 @@
+# Program41 "Program to read a single character from the keyboard using the getchar() function"
+# Program42 "Program to illustrate the use of getchar() and putchar() funcction"
+# Program43 "Program to explain the use of gets() funtion"
+# Program44 "Program to illustrate the concept of puts() with gets() function"
+# Program45 "Program to explain the concept of getch()"
+# Program46 "Program to explain the use of getche() function"
 # Program616 "Program matrix multiplication"
 # Program633 "Program to read string and count the number of characters in it"
